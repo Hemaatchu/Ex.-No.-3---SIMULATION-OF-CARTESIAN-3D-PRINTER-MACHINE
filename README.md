@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# DATE : 24/10/2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -61,8 +61,8 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/0d9c3720-48eb-40c6-b726-de552563af15)
 
-### Name: ARCHANA T
-### Register Number:212223240013
+### Name: HEMAVATHY S
+### Register Number:212223230076
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
